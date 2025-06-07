@@ -1741,5 +1741,8 @@ section,
 # Starter Section Section
 --------------------------------------------------------------*/
 .starter-section {
-  /* Add your styles here */
+
+.text-justify {
+  text-align: justify;
+}
 }
